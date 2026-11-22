@@ -2,6 +2,8 @@
 
 Website ucapan wisuda interaktif yang dikemas seperti **surat putusan pengadilan**: ada bagian *Menimbang*, *Mengingat*, *Mengadili*, tombol ketuk palu, stempel **SAH**, confetti, dan musik latar. Cocok sebagai kado digital untuk wisudawan Sarjana Hukum, dan seluruh website dikunci dengan kode akses supaya hanya penerima yang bisa membukanya.
 
+🎓 **Coba demo live:** https://wisuda-putusan-demo.vercel.app (kode akses demo: `01012026`)
+
 > Repo ini adalah **versi template**: semua nama, cerita, dan foto di dalamnya hanya contoh. Versi aslinya dibuat sebagai hadiah pribadi.
 
 Dibuat dengan **Next.js 16**, **React 19**, **TypeScript**, dan **Tailwind CSS 4**.
