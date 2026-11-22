@@ -78,7 +78,7 @@ Buka http://localhost:3000, lalu masukkan kode akses (contoh di `.env.example`: 
 
 Saya menerima pesanan website seperti ini: undangan dan ucapan digital, landing page, company profile, portofolio, sampai aplikasi web.
 
-- LinkedIn: [khanigaraa](https://www.linkedin.com/in/khanigaraa)
+- LinkedIn: [kantakhanigara](https://www.linkedin.com/in/kantakhanigara)
 - Instagram: [@khanigaraa](https://www.instagram.com/khanigaraa)
 
 ## Lisensi
